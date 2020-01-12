@@ -1,0 +1,81 @@
+﻿  main.cpp
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(463): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(468): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(473): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(478): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(484): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(488): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(492): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(496): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(500): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(504): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(532): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(533): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(534): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(538): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(548): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(549): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(550): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(554): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(566): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(567): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(568): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(615): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(616): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(617): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(621): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(628): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(629): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(630): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(634): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(682): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\k_mce\documents\uni\3rd year\agp\app\classtest\main.cpp(683): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  ClassTest.vcxproj -> C:\Users\k_mce\Documents\Uni\3rd Year\AGP\App\ClassTest\Debug\ClassTest.exe
